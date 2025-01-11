@@ -3,8 +3,8 @@ tools to spamming otp code in indonesian country number only.
 
 ### Apa yang baru ?
 
-• Brutal spam WhatsAp dan Sms<br>
-• 100% Free untuk semua pengguna
+    • Brutal spam WhatsApp dan Sms<br>
+    • 100% Free untuk semua pengguna
 
 ### Tampilan Hasil 
 ![template](https://github.com/Madd-KW/butterfly-spam/blob/main/sample/results-SMS.jpg)
