@@ -3,7 +3,7 @@ tools to spamming otp code in indonesian country number only.
 
 ### Apa yang baru ?
 
-• brutal spam WhatsAp dan Sms<br>
+• Brutal spam WhatsAp dan Sms<br>
 • 100% Free untuk semua pengguna
 
 ### Tampilan Hasil 
