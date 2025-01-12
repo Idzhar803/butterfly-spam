@@ -3,7 +3,6 @@ setup:
 	apt-get upgrade
 	pip install requests
 	pip install inquirer
-	pip install marshal
 	pip install setuptools
 	@echo "[+] paket berhasil di setup"
 
