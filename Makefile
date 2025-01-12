@@ -2,7 +2,6 @@ setup:
 	apt-get update
 	apt-get upgrade
 	pip install requests
-	pip install random
 	pip install json
 	pip install time
 	pip install re
