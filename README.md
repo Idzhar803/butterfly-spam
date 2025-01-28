@@ -13,7 +13,7 @@ tools to spamming otp code in indonesian country number only.
 <details open>
 
 ```php
-$ pkg upadate && pkg upgrade
+$ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git
 $ https://github.com/Madd-KW/butterfly-spam
